@@ -1,7 +1,31 @@
 body {
-  padding-top: 50px;
 }
-.starter-template {
-  padding: 40px 15px;
+
+
+.main-page {
+  padding:  30px 20px;
+  text-align: right;
+  background: url(../images/bigstock-food.jpg) no-repeat;
+  background-size:cover;
+}
+
+.masthead{
+  background-color: #B2D234;
+  padding: 5px 20px;
+}
+
+#webelieve {
+  padding-top: 20px;
+  padding-bottom: 20px;
   text-align: center;
+}
+
+.footer{
+  background-color: #B2D234;
+  font-family: josefin-sans, sans-serif;
+  padding: 10px 20px;
+}
+
+.nav-justified > li > a:hover{
+  background-color:white;
 }
