@@ -19,6 +19,7 @@ body {
   text-align: center;
 }
 
+
 .footer{
   background-color: #B2D234;
   font-family: josefin-sans, sans-serif;
@@ -27,4 +28,20 @@ body {
 
 .nav-justified > li > a:hover{
   background-color:white;
+}
+
+
+#yourwellnesscampaign{
+  padding-left:40px;
+}
+
+.panel-title{
+  font-size: 30px;
+  font-family:josefin-sans, sans-serif;
+  font-weight: 300;
+}
+
+.panel-default > .panel-heading{
+  color: white;
+  background-color: #475424
 }
